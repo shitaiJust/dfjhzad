@@ -1,0 +1,147 @@
+body
+{
+    background-size: cover;
+    background-image: url("bg2.png");
+}
+#bs
+{
+    position: absolute;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#price
+{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+    text-decoration: none;
+    color: black;
+}
+#blog
+{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 500px;
+    text-decoration: none;
+    color: black;
+}
+#vb
+{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 600px;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+}
+#vk
+{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 650px;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+}
+#btext
+{
+    position: absolute;
+    font-size: 75px;
+    margin-top: 190px;
+    margin-left: 90px;
+}
+#bisness
+{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 350px;
+    margin-left: 90px;
+}
+#mkplace
+{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 90px;
+}
+#WHITEPOWER
+{
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 90px;
+    border-radius: 15px;
+    background-color: white;
+    width: 700px;
+    height: 330px;
+}
+#textinsq
+{
+    position: absolute;
+    margin-left: 30px;
+    font-size: 25px;
+}
+#inpt1
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+#inpt2
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+#inpt3
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    width: 420px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 30px;
+}
+#inptbttn
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 250px;
+    background-color: black;
+    color: white;
+}
+#login
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 1380px;
+    background-color: white;
+    color: black;
+}
+#app
+{
+    border-radius: 15px;
+    font-size: 15px;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 1600px;
+    background-color: black;
+    color: white;
+}
